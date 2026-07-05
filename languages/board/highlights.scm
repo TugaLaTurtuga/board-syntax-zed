@@ -8,4 +8,4 @@
 (doc_comment) @comment.doc
 (comment) @comment
 (dash) @hint
-(board) @string
+(task_board) @string
