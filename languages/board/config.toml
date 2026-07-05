@@ -1,0 +1,5 @@
+name = "Board"
+grammar = "board"
+scope = "source.board"
+path_suffixes = ["board", "Board", "bd"]
+line_comments = ["// "]

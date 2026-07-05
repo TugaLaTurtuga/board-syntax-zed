@@ -1,0 +1,11 @@
+(section) @keyword
+(priority) @number
+(tag) @tag
+(context) @text.literal
+(due_date) @number
+(color) @constant.color
+(link) @link_uri
+(doc_comment) @comment.doc
+(comment) @comment
+(dash) @hint
+(board) @string

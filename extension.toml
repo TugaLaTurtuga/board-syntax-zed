@@ -1,0 +1,14 @@
+# ── Metadata ─────────────────────────────
+id = "board-syntax"
+name = "Board Syntax"
+version = "0.0.0"
+schema_version = 1
+authors = ["TugaLaTurtuga <TugaLaTurtuga@gmail.com>"]
+description = "Syntax highlighting for .board task files"
+repository = "https://github.com/TugaLaTurtuga/board-lang"
+languages = ["Board"]
+tags = ["Language"]
+
+[grammars.board]
+repository = "file:///Users/ppp/Documents/zed/board-lang/grammar"
+rev = "e640a25bebded904ba782aa34626ea20fe8689b0"
