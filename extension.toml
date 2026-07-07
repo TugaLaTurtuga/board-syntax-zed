@@ -5,7 +5,7 @@ version = "0.0.0"
 schema_version = 1
 authors = ["TugaLaTurtuga <TugaLaTurtuga@gmail.com>"]
 description = "Syntax highlighting for .board task files"
-repository = "https://github.com/TugaLaTurtuga/Board-syntax-zed"
+repository = "https://github.com/TugaLaTurtuga/board-syntax-zed"
 languages = ["Board"]
 tags = ["Language"]
 
